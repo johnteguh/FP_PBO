@@ -12,7 +12,6 @@ import javafx.util.Duration;
 
 public class KelompokSubScene extends SubScene {
 
-    private final static String  FONT_PATH = "src/model/resources/kenvector_future.ttf";
     private final static String BACKGROUND_IMAGE = "model/resources/kelompok.png";
 
     private boolean isHidden;
