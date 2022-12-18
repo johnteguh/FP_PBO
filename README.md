@@ -3,9 +3,9 @@
 ### Anggota Kelompok 3
 | Nama                         | NRP        |
 | ---------------------------- | -----------|
-| Yohanes Teguh Ukur Ginting   | 5025211217 |
-| Shazia Ingeyla Naveeda       | 5025211048 |
-| Armadya Hermawan Sarowono    | 5025211136 |
+| Yohanes Teguh Ukur Ginting   | 5025211179 |
+| Shazia Ingeyla Naveeda       | 5025211203 |
+| Armadya Hermawan Sarowono    | 5025211243 |
 
 
 
