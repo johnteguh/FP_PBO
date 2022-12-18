@@ -39,8 +39,6 @@ public class GameInvernya {
                             .filter(p -> isValid(p))
                             .map(p -> getCell(p.x, p.y))
                             .forEach(Cell::flip);
-
-                    // TODO: check all are flipped, if so player wins
                 });
 
                 root.getChildren().add(cell);
