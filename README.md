@@ -67,11 +67,12 @@ Dalam pengerjaan FP ini, kami mengikuti tutorial dari [JavaFX Game: Inverse Grid
 
 | Invers Grid Game                    | JavaFX Game: Inverse Grid       |
 | ---------------------------- | -------------------------------|
-|![gambarafter1](https://user-images.githubusercontent.com/116735029/208305197-9609fec9-ca1f-4d25-b745-8259afb14939.jpeg)  |![gambarbefore1](https://user-images.githubusercontent.com/116735029/208305249-a228cbb3-6bf9-4a2f-9664-8421bdaead4a.jpeg)
-  |
-|![gambarafter2](https://user-images.githubusercontent.com/116735029/208305396-923227e2-79bf-4af3-b833-c1eb14ac1704.jpeg)|
+|![gambarafter1](https://user-images.githubusercontent.com/116735029/208305197-9609fec9-ca1f-4d25-b745-8259afb14939.jpeg)  |![gambarbefore1](https://user-images.githubusercontent.com/116735029/208305249-a228cbb3-6bf9-4a2f-9664-8421bdaead4a.jpeg)|
+|![gambarafter2](https://user-images.githubusercontent.com/116735029/208305396-923227e2-79bf-4af3-b833-c1eb14ac1704.jpeg) | |
 
 
 
 ### Insights pada pengerjaan _Inverse Grid Game_
+   _Commits_
 
+![commits](https://user-images.githubusercontent.com/114483889/208305745-68d3eea7-6986-44ed-bb38-6b97b329f166.jpeg)
