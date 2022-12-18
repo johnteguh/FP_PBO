@@ -77,3 +77,7 @@ Dalam pengerjaan FP ini, kami mengikuti tutorial dari [JavaFX Game: Inverse Grid
 | _Commits_                  | _Deletion_       |
 | ---------------------------- | -------------------------------|
 |![commits](https://user-images.githubusercontent.com/114483889/208305745-68d3eea7-6986-44ed-bb38-6b97b329f166.jpeg) | ![deletion](https://user-images.githubusercontent.com/114483889/208305816-b1c7afa0-2de8-4eff-8665-6fc4275acc54.jpeg)|
+
+
+
+![persentasi](https://user-images.githubusercontent.com/116735029/208307226-498dd737-f515-491c-be93-1f5f5ff0189c.jpeg)
