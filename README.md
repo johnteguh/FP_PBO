@@ -31,7 +31,7 @@ Dalam pengerjaan FP ini, kami mengikuti tutorial dari [JavaFX Game: Inverse Grid
 
 
 
-### Class dalam _Ong Tetris_
+### Class dalam _Invers Grid Game_
 - `Main` main class dimana berisi class yang akan digunakan untuk mengampilkan tampilan gamenya. Class yang ada di dalam class ini berisi pengatur file-file FXML resources yang digunakan, class untuk memainkan lagu pada game, class untuk memulai dan mengatur main menu, class untuk loading scene.
 
 - `ViewManager` Class dimana yang mengatur jalannya tampilan pada main menu dan apa yang terjadi saat menu button tersebut di tekan dimana yang berhubungan dengan class yang lainnya dan menampilkan background, logo dan effect saat pointer mouse melewati tombol dan logo InversGrid dan juga mengatur bagaimana subscene muncul dan menghilang tergantung dengan keadaan primary stage
@@ -63,10 +63,15 @@ Dalam pengerjaan FP ini, kami mengikuti tutorial dari [JavaFX Game: Inverse Grid
 
 
 
-### Perbandingan Tampilan _Ong Tetris_ dengan Tutorial Referensi
+### Perbandingan Tampilan _Inverse Grid Game_ dengan Tutorial Referensi
 
 | Invers Grid Game                    | JavaFX Game: Inverse Grid       |
 | ---------------------------- | -------------------------------|
 |![gambarafter1](https://user-images.githubusercontent.com/116735029/208305197-9609fec9-ca1f-4d25-b745-8259afb14939.jpeg)  |![gambarbefore1](https://user-images.githubusercontent.com/116735029/208305249-a228cbb3-6bf9-4a2f-9664-8421bdaead4a.jpeg)
   |
 |![gambarafter2](https://user-images.githubusercontent.com/116735029/208305396-923227e2-79bf-4af3-b833-c1eb14ac1704.jpeg)|
+
+
+
+### Insights pada pengerjaan _Inverse Grid Game_
+
